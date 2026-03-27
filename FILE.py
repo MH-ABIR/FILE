@@ -1,3 +1,4 @@
 import os
 os.system('git pull')
-import FILE
+import file
+file.FILE()
